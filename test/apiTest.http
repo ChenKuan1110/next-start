@@ -1,0 +1,8 @@
+@URL = http://localhost:3000
+
+### GET /api
+GET {{URL}}/api/ HTTP/1.1
+
+
+### GET /api/hello
+GET {{URL}}/api/hello HTTP/1.1
