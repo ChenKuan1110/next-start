@@ -6,3 +6,6 @@ GET {{URL}}/api/ HTTP/1.1
 
 ### GET /api/hello
 GET {{URL}}/api/hello HTTP/1.1
+
+### 
+GET https://chenkuan.top/
